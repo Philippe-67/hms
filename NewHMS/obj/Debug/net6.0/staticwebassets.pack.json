@@ -5,8 +5,12 @@
       "PackagePath": "staticwebassets\\NewHMS.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\A114SR\\source\\repos\\NewHMS\\NewHMS\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\A114SR\\source\\repos\\NewHMS\\NewHMS\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\NewHMS\\NewHMS\\wwwroot\\css\\Site.css",
+      "PackagePath": "staticwebassets\\css\\Site.css"
     },
     {
       "Id": "C:\\Users\\A114SR\\source\\repos\\NewHMS\\NewHMS\\wwwroot\\favicon.ico",

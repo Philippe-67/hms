@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "30HMILXDVgUomljC7+3prmUn+i1AY+8PDWLEP+bK/6M=",
+  "Hash": "nTlZb0ZMzu9rm+u4bPICGMhgyygen6n2Ua0jgTS/N1A=",
   "Source": "NewHMS",
   "BasePath": "_content/NewHMS",
   "Mode": "Default",
@@ -55,12 +55,12 @@
       "OriginalItemSpec": "C:\\Users\\A114SR\\source\\repos\\NewHMS\\NewHMS\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NewHMS.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\A114SR\\source\\repos\\NewHMS\\NewHMS\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\A114SR\\source\\repos\\NewHMS\\NewHMS\\wwwroot\\css\\Login.css",
       "SourceId": "NewHMS",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\A114SR\\source\\repos\\NewHMS\\NewHMS\\wwwroot\\",
       "BasePath": "_content/NewHMS",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/Login.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,7 +71,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot\\css\\Login.css"
+    },
+    {
+      "Identity": "C:\\Users\\A114SR\\source\\repos\\NewHMS\\NewHMS\\wwwroot\\css\\Site.css",
+      "SourceId": "NewHMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\A114SR\\source\\repos\\NewHMS\\NewHMS\\wwwroot\\",
+      "BasePath": "_content/NewHMS",
+      "RelativePath": "css/Site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Site.css"
     },
     {
       "Identity": "C:\\Users\\A114SR\\source\\repos\\NewHMS\\NewHMS\\wwwroot\\favicon.ico",
